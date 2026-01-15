@@ -15,7 +15,7 @@ Lately I work on webb applications for use in academia, like grant application p
 <div align="left"> 
  <h3>Frontend:</h3>
 <!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />   -->
- <img style="margin: 10px" src="https://raw.githubusercontent.com/anna-1980/anna-1980/main/assets/icons/angular.ico" alt="Angular" height="75" />
+ <img style="margin: 10px" src="https://raw.githubusercontent.com/anna-1980/anna-1980/main/assets/angular.ico" alt="Angular" height="75" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />  
 </div>
