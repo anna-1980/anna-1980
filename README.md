@@ -51,14 +51,14 @@ Lately I work on webb applications for use in academia, like grant application p
 <br/>  
 
 
-## Github Stats  
+<!-- ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=anna-1980&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
  
  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anna-1980&exclude_repo=WBS-CookBook.com" align="left" />
 
-
+ -->
 
  
 
