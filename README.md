@@ -30,7 +30,7 @@ Lately I work on webb applications for use in academia, like grant application p
 <div align="left">  
  <h3>Other skills:</h3>
 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />   -->
 <img style="margin: 10px" src="https://i.ibb.co/rM9FcD6/phaser.png" align="left" height="70" /> (hobby)
 
 </div>
