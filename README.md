@@ -1,15 +1,15 @@
  # < Hello /> 
 
-I am Anna, a passionate coder, graphic designer and a biologist.
-I like designing and coding websites and I am eagerly deepening my knowledge about Frontend Development, lately with Next.js. 
-I'm, Learning more about UI / UX, and I am keeping up with Next.js and MongoDB basics.
- 
+I am Anna, a biologist who changed careers to we app programming.
+I like designing and coding websites and I am eagerly deepening my knowledge about Frontend Development, lately with Angular. 
+I know a bit about UI / UX, and I am doing my best to keep up with accessibility compliance.
+Lately I work on webb applications for use in academia, like grant application portals.
 
-<div align="left">
+<!-- <div align="left">
 <a href="https://www.anna-zdyb.com/" target="_blank"><img src="https://i.ibb.co/qWn8JYK/WEB-Portfolio-thumb-03.png" align="center" height="200" width="385" /></a>
-</div>  
+</div>   -->
  
-Check out my website: https://www.anna-zdyb.com/  
+<!--  Check out my website: https://www.anna-zdyb.com/   -->
  
 ## My Skill Set  
 <div align="left"> 
@@ -23,17 +23,15 @@ Check out my website: https://www.anna-zdyb.com/
  <img style="margin: 10px" alt="GraphQL"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" height="50"/>
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>   
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />  
 </div>
 <br/>  
 <hr>
 <div align="left"> 
  <h3>Backend:</h3>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angular-original.svg" alt="Angular" height="75" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="75" />  
 </div>
  <hr>
@@ -41,7 +39,7 @@ Check out my website: https://www.anna-zdyb.com/
  <h3>Other skills:</h3>
 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://i.ibb.co/rM9FcD6/phaser.png" align="left" height="70" />  
+<img style="margin: 10px" src="https://i.ibb.co/rM9FcD6/phaser.png" align="left" height="70" /> (hobby)
 
 </div>
 
